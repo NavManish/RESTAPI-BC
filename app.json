@@ -1,0 +1,27 @@
+{
+  "id": "b3f0a21d-66cc-49b8-ad2b-5729c45c6b50",
+  "name": "BC365RestAPI",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://BC365RestAPI.com/help/",
+  "showMyCode": true,
+  "runtime": "3.2",
+  "target":"Extension"
+}
